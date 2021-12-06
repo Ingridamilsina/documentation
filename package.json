@@ -22,7 +22,7 @@
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.72",
     "@docusaurus/preset-classic": "2.0.0-alpha.72",
-    "@emotion/react": "^11.4.1",
+    "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.3.0",
     "@mdx-js/react": "^1.6.21",
     "@mui/icons-material": "^5.0.1",
