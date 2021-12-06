@@ -26,7 +26,7 @@
     "@emotion/styled": "^11.3.0",
     "@mdx-js/react": "^1.6.21",
     "@mui/icons-material": "^5.0.1",
-    "@mui/material": "^5.0.1",
+    "@mui/material": "^5.1.0",
     "@mui/styles": "^5.0.1",
     "clsx": "1.1.1",
     "docusaurus-lunr-search": "2.1.10",
